@@ -1,0 +1,14 @@
+label{
+    color: #fff;
+    font-weight: 700;
+}
+
+table{
+    width: 90%;
+}
+tr,td{
+    color: #fff;
+}
+a{
+    cursor: pointer;
+}
